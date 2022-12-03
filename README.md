@@ -7,9 +7,9 @@ These 25 holiday-themed thought-provoking puzzles allow a participant to code in
 My solutions are written in `Python` and my specific input is kept in an `input.in` file within the `Day#` folder along with the `.py` file.
 I run in terminal in the `Day#` folder to allow the script to recognize the input.in file.
 
-### Concepts I used/learned
-Day 1: file i/o, stripped empty lines are empty strings
+### Concepts I Used/Learned
+***Day 1***: file i/o, stripped empty lines are empty strings
 
-Day 2: maps, modular-usage for cyclic ideal of Rock-Paper-Scissors
+***Day 2***: maps, modular-usage for cyclic ideal of Rock-Paper-Scissors
 
-Day 3: set intersection operation in python is very simply `setA & setB`
+***Day 3***: set intersection operation in python is very simply `setA & setB`
