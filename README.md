@@ -14,4 +14,4 @@ I run in terminal in the `Day#` folder to allow the script to recognize the inpu
 
 ***Day 3***: set intersection operation in python is very simply `setA & setB`
 
-***Day 4***: interval intersections, for simplification of intersecting condition, we can do `swap((a, b), (c, d)) if c < a` in python with `a, b, c, d = c, d, a, b`.
+***Day 4***: interval intersections, for simplification of intersecting condition, we can do `swap((a, b), (c, d)) if c < a` => `a, b, c, d = c, d, a, b` (nice "pythonic" swap).
