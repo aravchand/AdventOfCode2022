@@ -16,6 +16,7 @@ I run in terminal in the `Day#` folder to allow the script to recognize the inpu
 
 ***Day 4***: interval intersections, for simplification of intersecting condition, we can do `swap((a, b), (c, d)) if c < a` => `a, b, c, d = c, d, a, b` (nice "pythonic" swap).
 
-***Day 5***: stack operations, adding one stacks popped elements to anothers in 2 different orders. TODO: update input method (currently harcoded input, make general probably using `mod 4` to avoid brackets and account for each space between)
+***Day 5***: stack operations, adding one stacks popped elements to anothers in 2 different orders. 
+**TODO**: update input method (currently harcoded input, make general probably using `mod 4` to avoid brackets and account for each space between)
 
-***Day 5***: # distinct elements in sliding window of 2 diff lengths for the two parts of todays puzzle. i generalized with single `p(signal_length)` function since the only difference between the two parts was the sliding window's length
+***Day 6***: # distinct elements in sliding window of 2 diff lengths for the two parts of todays puzzle. I generalized with single `p(signal_length)` function since the only difference between the two parts was the sliding window's length
